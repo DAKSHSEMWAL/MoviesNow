@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieNow</string>
+    <string name="sort">Sort</string>
+    <string name="name_asc">Name(Asc)</string>
+    <string name="name_dsc">Name(Dsc)</string>
+    <string name="year_asc">Year(Asc)</string>
+    <string name="year_dsc">Year(Dsc)</string>
+    <string name="director_s">Director(s)</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="plot">Plot</string>
+</resources>
